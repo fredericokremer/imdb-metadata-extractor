@@ -18,7 +18,9 @@ $ imdb-metadata-extractor tt0058700
     "poster": "https://m.media-amazon.com/images/M/MV5BODA0MzRhYWMtMGUxYi00NmQyLWEyOWYtMGI4NjM3ZDE5NTEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
     "description": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
     "rating": 6.7,
-    "actors": "Vincent Price, Franca Bettoia, Emma Danieli"
+    "release": "1964-05-06",
+    "genre": "Drama; Horror; Sci-Fi",
+    "actors": "Vincent Price; Franca Bettoia; Emma Danieli"
 }
 ```
 
