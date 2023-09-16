@@ -1,6 +1,0 @@
-requests
-requests-html
-BeautifulSoup4
-pandas
-openpyxl
-twine
