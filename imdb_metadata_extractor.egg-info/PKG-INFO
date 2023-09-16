@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: imdb-metadata-extractor
+Version: 0.0.1
+Summary: imdb-metadata-extractor
+Author: Frederico Schmitt Kremer
+Author-email: fred.s.kremer@gmail.com
+Keywords: web
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: requests-html
+Requires-Dist: BeautifulSoup4
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: twine
+
+#
